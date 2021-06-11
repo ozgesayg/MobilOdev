@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HomeworkOzge</string>
+    <string name="todo">TODO</string>
+
+    <string name="btnLabel">Tamam</string>
+    <string name="id">Numara:</string>
+    <string name="name">Ad Soyad:</string>
+    <string name="email">Eposta:</string>
+    <string name="stdNo">Öğrenci No:</string>
+    <string name="myName">Adım Soyadım:</string>
+    <string name="myInfo">Hakkımda:</string>
+    <string name="cstdNo">191030006</string>
+    <string name="cmyName">Özge Saygı</string>
+    <string name="cmyInfo">Meslek hayatımda başarılı bir web tasarımcı olmak istiyorum.\n Şuan okulu bitirip isteğime göre staj yeri bulmak için çabalıyorum.</string>
+
+    <string name="error_msg_internet_connection">Lütfen internet bağlantınızı kontrol ediniz.</string>
+    <string name="error_msg_unknown">Bilinmeyen bir hata oluştu: %1$s</string>
+    <string name="error_msg_data_null">Ekranda veri yok!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Özge Saygı</string>
+    <string name="nav_header_subtitle">191030006</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_info">Hakkımda</string>
+
+    <string name="menu_user_list">Kullanıcı Listesi</string>
+    <string name="menu_info">Hakkımda</string>
+</resources>
